@@ -1,0 +1,145 @@
+           _      _      _____ ______ _____  
+     /\   | |    | |    |_   _|  ____|  __ \ 
+    /  \  | |    | |      | | | |__  | |  | |
+   / /\ \ | |    | |      | | |  __| | |  | |
+  / ____ \| |____| |____ _| |_| |____| |__| |
+ /_/    \_\______|______|_____|______|_____/ 
+                                             
+                                             
+                                             
+
+
+Allied Changes
+
+===== BUFFS =============
+
+
+Power Plant Buff          - Allied power plant takes the same amount of time to consctruct as the soviet tesla reactor 
+
+Robot Control Center      - Robot Control Center now only drains 10% of what it origionally did 
+
+Chrono Miner              - Can now store 625 ore instead of 500. This means it will spend more time out gathering ore and less time traveling to and from the refinary 
+
+Grizzly Tank              - Speed +1, just a tiny bit faster than normal and has a slightly better movement speed over ore in general (comparable to an ore miner)
+
+Tank Destroyer            - Range DOUBLED - No longer requires Radar to build
+
+Harrier                   - Build Speed: 10% faster· Harrier Speed: +1 (a little faster than normal, barley noticable)
+
+Eagle                     - Deals Area of effect damage vs tanks but less damage to direct hits (150 to be exact which is same as harrier) 
+                            This is so Eagle can still miss but will still do SOME damage
+                            
+                              - Area of Effect is not applicable to buildings and will do normal damage to buildings.   (IE; 3 for radar, lab)                    
+                              - Weapons are totally different, a shot that misses a tank next to a building will not harm the building with AOE. 
+                              - Buildings can only be harmed if targeted and fired upon or if the eagle crashes into the building
+
+Spy                       - Speed reduced by 1 (same speed as GGI)  Blackout time from inflitrating power plant increased from 1 minute to 3.5 minutes
+
+Seal IFV                  - Does not auto target tanks however will still return fire if hit by them
+
+Chrono Legionnaire        - Auto Heals and has same amrour and strength as a Deso. Fixed Origional bug where Elite could not fire over walls
+
+
+
+===== NERFS =============
+
+Chrono Legionnaire        - Cannot attack Oils
+
+
+
+
+   _____  ______      _______ ______ _______ 
+  / ____|/ __ \ \    / /_   _|  ____|__   __|
+ | (___ | |  | \ \  / /  | | | |__     | |   
+  \___ \| |  | |\ \/ /   | | |  __|    | |   
+  ____) | |__| | \  /   _| |_| |____   | |   
+ |_____/ \____/   \/   |_____|______|  |_|   
+                                            
+                                            
+
+Soviet Changes
+
+
+===== BUFFS =============
+
+
+Apoc                      - Can Fire while moving (the same as a rhino can)
+
+Tesla Tank                - Can Fire while moving (the same as a rhino can). Cost reduced from 1200 to 900. Builds slow (at the same rate as if it did cost 1200)
+
+Demo Truck                - Speed increased by +2 (same speed as a mirage tank)
+
+Terrorists                - Dont chain react when exploding, can be built without radar
+
+Tesla Trooper             - Range increased by 1 
+
+Flak Trooper              - Can be built without radar
+
+
+
+===== NERFS =============
+                          
+Conscript                 - Cost increased from 100 to 150
+Desolator                 -  Deals Damage to self when deploying (MELTDOWN logic)
+                              - Deals more damage to self when in groups
+                              - Deals less damage to self when spaced appart by 2 - 3 cells or solo
+                              - Damage will kill the desolator if deployed 5 times in a row in quick succession 
+                              - Damage in groups of 3 on the same cell will leave all deso's with 1 hp when deployed once
+                              - Damage in groups of 4 will kill 3 out of 4 deso with the surviving deso being the one on the other cell (survivor will have 1 hp)
+                              - Deso still can self heal - this creates a nice cooldown scenerio where players will have to micro their desolators
+                              
+                              
+
+Battle Bunker             - Strength/ HP  Reduced by -100 (from 600 to 500)
+
+Iron Curtain              - Recharge timer duration increased from 5 minutes to 6 minutes (the same time it takes the chronosphere to recharge)
+
+
+
+
+
+ __     ___    _ _____  _____ 
+ \ \   / / |  | |  __ \|_   _|
+  \ \_/ /| |  | | |__) | | |  
+   \   / | |  | |  _  /  | |  
+    | |  | |__| | | \ \ _| |_ 
+    |_|   \____/|_|  \_\_____|
+                              
+                              
+Yuri Changes
+
+===== BUFFS =============
+
+Chaos Drone               - cost: decreased from 1000 to 800 - Can't be droned
+
+Virus                     - Speed increased +1
+
+
+===== NERFS =============
+
+Tank Bunker               - Cost increased from 400 to 600
+
+Genetic Mutator           - Effective range lowered by 50%
+
+
+
+ _   _  _____ _   _ ___________  ___   _      
+| \ | ||  ___| | | |_   _| ___ \/ _ \ | |     
+|  \| || |__ | | | | | | | |_/ / /_\ \| |     
+| . ` ||  __|| | | | | | |    /|  _  || |     
+| |\  || |___| |_| | | | | |\ \| | | || |____ 
+\_| \_/\____/ \___/  \_/ \_| \_\_| |_/\_____/ 
+                                              
+
+Neutral Changes
+
+
+Tech Oil Derrick          - Immune from Chrono Legionnaire weapons
+
+Tech Service Depot        - Capturing allows ability to build new MCV from war factory
+
+Miner behaviour           - Miners wont deviate when attacked. Threat avoidence tags removed and miners will now obey move commands when being attacked.
+
+Dogs                      -  Dog Rate of Fire Reduced - No more dog luck
+
+
