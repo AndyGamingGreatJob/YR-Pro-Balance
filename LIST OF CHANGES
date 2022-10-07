@@ -22,20 +22,20 @@ Chrono Miner              - Can now store 625 ore instead of 500. This means it 
 
 Grizzly Tank              - Speed +1, just a tiny bit faster than normal and has a slightly better movement speed over ore in general (comparable to an ore miner)
 
-Tank Destroyer            - Range DOUBLED - No longer requires Radar to build
+Tank Destroyer            - Range changed from 5 to 8 - No longer requires Radar to build
 
 Harrier                   - Build Speed: 10% faster· Harrier Speed: +1 (a little faster than normal, barley noticable)
 
-Eagle                     - Deals Area of effect damage vs tanks but less damage to direct hits (150 to be exact which is same as harrier) 
+Eagle                     - Deals Area of effect damage vs tanks but less damage to direct hits (150 to be exact which is same as harrier but a little extra vs tanks) 
                             This is so Eagle can still miss but will still do SOME damage
                             
                               - Area of Effect is not applicable to buildings and will do normal damage to buildings.   (IE; 3 for radar, lab)                    
                               - Weapons are totally different, a shot that misses a tank next to a building will not harm the building with AOE. 
                               - Buildings can only be harmed if targeted and fired upon or if the eagle crashes into the building
 
-Spy                       - Speed reduced by 1 (same speed as GGI)  Blackout time from inflitrating power plant increased from 1 minute to 3.5 minutes
+Spy                       - Blackout time from inflitrating power plant increased from 1 minute to 3.5 minutes
 
-Seal IFV                  - Does not auto target tanks however will still return fire if hit by them
+Seal IFV                  - Does not target tanks or buildings even when attacked by them
 
 Chrono Legionnaire        - Auto Heals and has same amrour and strength as a Deso. Fixed Origional bug where Elite could not fire over walls
 
@@ -44,6 +44,8 @@ Chrono Legionnaire        - Auto Heals and has same amrour and strength as a Des
 ===== NERFS =============
 
 Chrono Legionnaire        - Cannot attack Oils
+
+Spy                       - Dies after being shot 2 times,by a pillbox or sentry the same as an Engineer
 
 
 
@@ -92,7 +94,7 @@ Desolator                 -  Deals Damage to self when deploying (MELTDOWN logic
 
 Battle Bunker             - Strength/ HP  Reduced by -100 (from 600 to 500)
 
-Iron Curtain              - Recharge timer duration increased from 5 minutes to 6 minutes (the same time it takes the chronosphere to recharge)
+Iron Curtain              - Recharge timer duration increased from 5 minutes to 6 minutes 
 
 
 
